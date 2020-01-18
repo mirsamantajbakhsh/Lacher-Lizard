@@ -18,15 +18,16 @@ _Arachni_[ Site ](https://www.arachni-scanner.com/)<br />
 
 
 ## About US
-_i'm Ali Farhadian who are coding of this Thesis project of UUT university_<br />
-_this project Supervisor Professor Mir Saman Tajbakhsh who are give the first idea about it..._<br />
+_I'm **Ali Farhadian** who are responsible for coding of this Thesis project at **Urmia University of Technology** (UUT)_<br />
+_This project is under the supervision of Dr. **Mir Saman Tajbakhsh**._<br />
 
-_Ali Farhadian_[ GitHub ](https://github.com/alifrd)<br />
-_Mir Saman Tajbakhsh_[ Personal Website ](https://mstajbakhsh.ir/)  _[ GitHub ](https://github.com/mirsamantajbakhsh)<br />
-_UUT_[ Website ](http://uut.ac.ir/)<br />
+* **Ali Farhadian** [ GitHub ](https://github.com/alifrd)<br />
+* **Mir Saman Tajbakhsh** [ Personal Website ](https://mstajbakhsh.ir/) &nbsp;      [ GitHub ](https://github.com/mirsamantajbakhsh)<br />
+* **Urmia University of Technology (UUT)** [ Website ](http://uut.ac.ir/)<br />
 
 ## config file
 _at ./config file in config.json_<br />
+<pre>
     * ProjectName : name of project<br />
     * URL : url of project<br />
     * Setting<br />
@@ -42,5 +43,6 @@ _at ./config file in config.json_<br />
     * XSS :<br />
         * path : path directory of arachni file<br />
         * manual : for manual setting<br />
-
+</pre>
+<br />
 **Ask and You Will learn** [*~Imam Ali*]
